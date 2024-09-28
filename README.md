@@ -52,18 +52,19 @@ npm install
 ```bash
 npm run dev
 ```
-#Features
-- **User registration and login for employers and employees
-- **Job listing creation, editing, and deletion for employers
-- **Job application functionality for employees
-- **View applied jobs for employees
 
-#Screenshots
-- **Homepage:
+## Features
+- **User registration and login for employers and employees**
+- **Job listing creation, editing, and deletion for employers**
+- **Job application functionality for employees**
+- **View applied jobs for employees**
+
+## Screenshots
+- **Homepage:**
 ![4th](https://github.com/user-attachments/assets/29b1927c-94da-42b8-adc6-f85f21acb338)
-- **Dashbords
+- **Dashbords:**
 ![5th](https://github.com/user-attachments/assets/d5705ff2-edc2-4b99-93b8-ee98e97268e3)
 ![7th](https://github.com/user-attachments/assets/984935ac-bd17-46a9-9eab-c684e8483173)
 
--**jobs listing
+-**jobs listing:**
 ![6th](https://github.com/user-attachments/assets/b03192cd-4669-4744-be7e-e2f8ab4b4516)
