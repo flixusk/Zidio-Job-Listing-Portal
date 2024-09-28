@@ -15,6 +15,9 @@ The Job Listing Portal is a web application that allows employers to post job li
 
 ```bash
 git clone https://github.com/flixusk/Zidio-Job-Listing-Portal.git
+```
+cd into the directory:
+```bash
 cd Zidio-Job-Listing-Portal
 ```
 
